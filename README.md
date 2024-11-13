@@ -1,2 +1,2 @@
 # rustlings
-Lear Rust lang
+Learn Rust lang
