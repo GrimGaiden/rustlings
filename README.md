@@ -1,2 +1,0 @@
-# rustlings
-Learn Rust lang
